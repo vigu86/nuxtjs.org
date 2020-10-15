@@ -134,7 +134,7 @@ export default {
 }
 ```
 
-Want to use query parameters instead? You then use [context.query.id](http://context.query.id) then.
+Want to use query parameters instead? You then use [context.query.id](http://context.query.id).
 
 ### Redirecting users & accessing the store
 
